@@ -3,10 +3,10 @@ SRAssembler
 Local assembly of genomic reads by homologous sequences
 
 ##### Contents
-[Overview] (#overview)
-[Installation] (#installation)
-[Short Manual] (#manual)
-[FAQs] (#faq)
+* [Overview] (#overview)
+* [Installation] (#installation)
+* [Short Manual] (#manual)
+* [FAQs] (#faq)
 
 <a name="overview"/>
 ###Overview
