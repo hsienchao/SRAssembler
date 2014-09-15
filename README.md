@@ -6,7 +6,7 @@ Local assembly of targeted regions by homologous sequences
 Introduction
 ========
 
-SRAssembler is a pipeline program that can assemble genomic DNA reads using homologous sequences as query input. We first align the reads that can locally be mapped onto those query sequences. These mapped reads then serve as seed reads, which are used to find other reads partially mapped to them. This in-silico ”chromosome walking” strategy can be used to recursively gather reads that are associated with regions of interest. The mined reads can be further assembled into contigs, which can subsequently and easily be annotated by current spliced alignment programs. This idea is based on the in-silico chromosome walking program called Tracembler, which assembles entries from the outdated NCBI Trace Archive.
+SRAssembler is a pipeline program that can assemble genomic DNA reads using homologous sequences as query input. We first align the reads that can locally be mapped onto those query sequences. These mapped reads then serve as seed reads, which are used to find other reads partially mapped to them. This in-silico ”chromosome walking” strategy can be used to recursively gather reads that are associated with regions of interest. The mined reads can be further assembled into contigs, which can subsequently and easily be annotated by current spliced alignment programs. This idea is based on the in-silico chromosome walking program called [Tracembler](http://www.plantgdb.org/tool/tracembler/), which assembles entries from the outdated NCBI Trace Archive.
 
 In this pipeline, we use the following steps to assemble the homologous loci of DNA regions of interest:
 
