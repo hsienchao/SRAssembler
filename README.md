@@ -2,6 +2,9 @@ SRAssembler
 ===========
 Local assembly of genomic reads by homologous sequences
 
+Publication:
+McCarthy, Thomas W., Hsien-chao Chou, and Volker P. Brendel. "SRAssembler: Selective Recursive local Assembly of homologous genomic regions." BMC bioinformatics 20.1 (2019): 371.
+
 ##### Contents
 * [Overview] (#overview)
 * [Installation] (#installation)
